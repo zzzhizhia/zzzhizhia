@@ -1,7 +1,7 @@
 <!--
 MIT License
 
-Copyright (c) 2024 zzzhizhiw
+Copyright (c) 2024 zzzhizhi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -56,6 +56,7 @@ Source repository: <https://github.com/zzzhizhiw/zzzhizhiw>
 </p>
 <p align="center">
     <!-- https://github.com/badges/shields --> 
+    <a href="https://www.zzzhizhi.top"><img src="https://img.shields.io/badge/Blog-zzzhizhi-99cccc?logo=Hugo" alt="Blog" title="Blog" /></a>
     <a href="https://github.com/zzzhizhiw"><img src="https://img.shields.io/badge/GitHub-zzzhizhiw-blue?logo=github" alt="GitHub" title="GitHub" /></a>
     <a href="https://space.bilibili.com/437297385"><img src="https://img.shields.io/badge/哔哩哔哩-致之zzzhizhi-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
