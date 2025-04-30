@@ -37,7 +37,7 @@ Source repository: <https://github.com/zzzhizhia/zzzhizhia>
 
 **I am:**
 
-- an official member of Minecraft Olympic Committee (MOC)
+- a core manager of Minecraft Olympic Committee (MOC)
 - a lecturer at Sico University (XKU)
 - a student member of the China Computer Federation (CCF)
 - the president and founder of DrimTech
