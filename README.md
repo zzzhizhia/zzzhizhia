@@ -33,10 +33,11 @@ Source repository: <https://github.com/zzzhizhia/zzzhizhia>
 
 **I am:**
 
+- the founder of Sail Code
+- A partner of Cling
 - a core manager of Minecraft Olympic Committee (MOC)
-- a lecturer at Sico University (XKU)
 - a student member of the China Computer Federation (CCF)
-- the president and founder of DrimTech
+- the founder of DrimTech
 - the founder of Love Paradise Server (LPS)
 
 **My Email:** [i@zzzhizhi.com](mailto:i@zzzhizhi.com)
