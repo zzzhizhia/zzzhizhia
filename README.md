@@ -1,7 +1,7 @@
 <!--
 MIT License
 
-Copyright (c) 2024 zzzhizhi
+Copyright (c) 2025 zzzhizhi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -30,18 +30,6 @@ Source repository: <https://github.com/zzzhizhia/zzzhizhia>
     <!-- https://github.com/kyechan99/capsule-render -->
     <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20zzzhizhi&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" alt="Hi There" title="Hi There"/>
 </p>
-
-**I am:**
-
-- the founder of Sail Code
-- A partner of Cling
-- a core manager of Minecraft Olympic Committee (MOC)
-- a student member of the China Computer Federation (CCF)
-- the founder of DrimTech
-- the founder of Love Paradise Server (LPS)
-
-**My Email:** [i@zzzhizhi.com](mailto:i@zzzhizhi.com)
-
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
     <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
