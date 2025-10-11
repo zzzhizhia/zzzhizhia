@@ -50,7 +50,7 @@ Source repository: <https://github.com/zzzhizhia/zzzhizhia>
 </p>
 <p align="center">
     <!-- https://github.com/badges/shields --> 
-    <a href="https://zzzhizhi.com"><img src="https://img.shields.io/badge/Website-zzzhizhi-99cccc" alt="Website" title="Website" /></a>
+    <a href="https://bonjour.bio/zzzhizhi"><img src="https://img.shields.io/badge/Bonjour!-zzzhizhi-99cccc" alt="Bonjour!" title="Bonjour!" /></a>
     <a href="https://github.com/zzzhizhia"><img src="https://img.shields.io/badge/GitHub-zzzhizhia-blue?logo=github" alt="GitHub" title="GitHub" /></a>
     <a href="https://space.bilibili.com/437297385"><img src="https://img.shields.io/badge/哔哩哔哩-致之zzzhizhi-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
