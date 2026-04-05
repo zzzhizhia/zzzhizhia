@@ -1,7 +1,11 @@
+<div align="center">
+
 👋 Founder @singularquest  
 🕒 Ex - AI Native PM @Tanweai  
 🕒 Ex - Developer @StartLinks  
 👍🏻 AI x Education x Productivity
+
+</div>
 
 <p align="center">
     <!-- https://github.com/badges/shields --> 
