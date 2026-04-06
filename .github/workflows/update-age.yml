@@ -1,0 +1,18 @@
+name: Update Age Badge
+on:
+  schedule:
+    - cron: '0 0 14 9 *'  # 每年9月14日
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update age
+        run: |
+          AGE=$(( $(date +%Y) - 2007 ))
+          sed -i "s/Age-[0-9]*/Age-$AGE/" README.md
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update age badge"
