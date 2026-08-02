@@ -1,12 +1,3 @@
-<div align="center">
-
-👋 Founder @singularquest  
-🕒 Ex - AI Native PM @Tanweai  
-🕒 Ex - Developer @StartLinks  
-👍🏻 AI x Education x Productivity
-
-</div>
-
 <p align="center">
     <!-- https://github.com/badges/shields --> 
     <a href="https://bonjour.bio/zzzhizhi"><img src="https://img.shields.io/badge/Bonjour!-zzzhizhi-99cccc" alt="Bonjour!" title="Bonjour!" /></a>
